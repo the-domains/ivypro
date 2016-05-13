@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ivypro]]></title>
         <description><![CDATA[Ivypro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ivypro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 22:30:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 22:34:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ivypro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73694e7e-935e-47ff-9cd1-c03a302eebdd.jpg">]]></description>
-            <link>undefinedd2f2e954-d16c-49b1-a769-2f90238abe38/index.html</link>
+            <link>https://thegrid.ai/ivypro/d2f2e954-d16c-49b1-a769-2f90238abe38/index.html</link>
             <guid isPermaLink="false">d2f2e954-d16c-49b1-a769-2f90238abe38</guid>
-            <pubDate>Fri, 13 May 2016 22:29:47 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 22:34:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
